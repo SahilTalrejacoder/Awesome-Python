@@ -4,7 +4,7 @@
 # A curated list of awesome Python resources.
 
 - Features of Python
-- Applications of Python
+- [Applications of Python](https://www.scaler.com/topics/python/applications-of-python/)
 - Python Basic Syntax
 - Difference Between Python 2 and 3
 
