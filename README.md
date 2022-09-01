@@ -11,7 +11,7 @@
 # Python Basic Constructs
 
 - Indentation in Python
-- Variables in Python
+- [Variables in Python](https://www.scaler.com/topics/python/variables-in-python/)
 - Python Keywords and Identifiers
 - Literals in Python
 - Comments in Python
